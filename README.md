@@ -55,7 +55,7 @@
 
 <img src="https://streak-stats.demolab.com?user=Makcio10692&theme=dark&hide_border=true&background=0D1117&ring=2DD4BF&fire=2DD4BF&currStreakLabel=ffffff" alt="GitHub streak" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Makcio10692&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&include_all_commits=true" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Makcio10692&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF" alt="GitHub stats" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Makcio10692&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2DD4BF" alt="Top languages" />
 </div>
